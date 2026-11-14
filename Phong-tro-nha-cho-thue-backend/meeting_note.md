@@ -53,3 +53,11 @@
 ### Working: Thu thập thông tin, sửa cái lỗi phụ, thêm đặc tả, UserStory, SRC.md
 ### Roadblocks: không
 ### Plans for the next day: tìm hiểu thêm, học thêm
+---
+---
+# 14/11/2026
+## (Leader) Bùi Đăng Khoa
+### Working: Làm xong backend
+### Roadblocks: không
+### Plans for the next day: đợi nhóm làm fontend
+
